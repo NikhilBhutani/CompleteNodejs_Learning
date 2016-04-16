@@ -1,1 +1,4 @@
 Random text file
+
+1. Use Express, Hapi or Restify frameworks for Nodejs to develop a micro web service quickly.
+2. In php, Slim framework for web services.
